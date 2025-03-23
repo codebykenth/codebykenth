@@ -1,22 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kenth Alexis Osila</h1>
+<h3 align="center">A passionate backend developer from Philippines</h3>
 
-<!--
-**codebykenth/codebykenth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebykenth&label=Profile%20views&color=0e75b6&style=flat" alt="codebykenth" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-🔭 I’m currently working on backend development specifically Laravel API<br>👯 I’m looking to collaborate on backend projects that uses Laravel<br>🌱 I’m currently learning Laravel<br><br>💻 My Portfolio -> https://kenthalexis.dev
+- 🔭 I’m currently working on backend development for our capstone **Pet Connect** using Laravel API 
 
+- 🌱 I’m currently learning **Laravel framework**
+
+- 👨‍💻 All of my projects are available at [https://kenthalexis.dev/](https://kenthalexis.dev/)
+
+- 📫 How to reach me **kenthosila@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/knthlxs03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenthosila@gmail.com) 
