@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kenth Alexis Osila</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
+<h3 align="center">An aspiring web developer from Philippines</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on backend development for our capstone **Pet Connect** using Laravel API 
+- 🔭 I’m currently working on our backend for our capstone **Pet Connect** using Laravel API 
 
-- 🌱 I’m currently learning **Laravel framework**
+- 🌱 I’m currently learning **React and Laravel framework**
 
-- 👨‍💻 All of my projects are available at [https://kenthalexis.dev/](https://kenthalexis.dev/)
+- 👨‍💻 All of my projects are available at [https://kenthalexisosila.vercel.app/](https://kenthalexisosila.vercel.app/)
 
 - 📫 How to reach me **kenthosila@gmail.com**
 
