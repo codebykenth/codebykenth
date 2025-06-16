@@ -109,17 +109,17 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="600" src="https://firebasestorage.googleapis.com/v0/b/delistifytask.appspot.com/o/Portfolio-Bg.png?alt=media&token=7bc61846-0144-4aad-9681-3d463a246f37"  />
+
+###
+
 <h2 align="left">Project 2: List It</h2>
 
 ###
 
 <p align="left">Developed a to-do list website to help individuals manage daily tasks more effectively. The project was inspired by the common challenges students face in time management, providing features to plan, organize, and track activities efficiently.<br><br>Technologies: React, Laravel, Tailwind CSS, Shadcn, and MySQL<br><br>Website: https://list-it-frontend.vercel.app</p>
-
-###
-
-<br clear="both">
-
-<img align="left" height="600" src="https://firebasestorage.googleapis.com/v0/b/delistifytask.appspot.com/o/Portfolio-Bg.png?alt=media&token=7bc61846-0144-4aad-9681-3d463a246f37"  />
 
 ###
 
