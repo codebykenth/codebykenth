@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Check my portfolio [here](https://kenthalexisosila.vercel.app)</p>
+<p align="left">Check my portfolio <a href="https://kenthalexisosila.vercel.app/" target="_blank">here</a></p>
 
 ###
 
