@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Check my portfolio <a href="https://kenthalexisosila.vercel.app/" target="_blank">here</a></p>
+<p align="left">Check my portfolio <a href="https://kenthalexisosila.dev/" target="_blank">here</a></p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kenth-alexis-osila-107b68297/" target="_blank">
+  <a href="https://www.linkedin.com/in/kenthalexisosila/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:kenthosila@gmail.com" target="_blank">
