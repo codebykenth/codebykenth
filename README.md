@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi! I am Kenth Alexis Osila<br><br>WEB DEVELOPER</h1>
+<h1 align="left">👋 Hi! I am Kenth Alexis Osila<br><br>SOFTWARE DEVELOPER</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate and forward-thinking web developer with hands-on experience in building responsive, user-centric web applications using  React, Next.js, Tailwind CSS, and Shadcn. I specialize in creating  intuitive front-end experiences while maintaining robust and scalable  back-end systems using Laravel, MySQL, and Firebase.</p>
+<p align="left">Hi! I’m here to simplify your digital life. I build websites that look great, turn your data into easy-to-read reports, and use n8n to automate the boring stuff so you can focus on what matters most which is your business.</p>
 
 ###
 
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/kenthalexisosila/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:kenthosila@gmail.com" target="_blank">
+  <a href="mailto:work@kenthalexisosila.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/knthlxs03" target="_blank">
@@ -50,8 +50,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
