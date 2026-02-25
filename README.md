@@ -1,78 +1,78 @@
-<h1 align="left">👋 Hi! I am Kenth Alexis Osila<br><br>SOFTWARE DEVELOPER</h1>
+# 👋 Hi! I am Kenth Alexis Osila
+### SOFTWARE DEVELOPER | AUTOMATION SPECIALIST
 
-###
+I build efficient web applications and automate complex business workflows. I specialize in developing robust systems using **Laravel** and **JavaScript**, while leveraging **n8n** to drive operational efficiency through smart automation.
 
-<h3 align="left">Background</h3>
+[🌐 Portfolio](https://kenthalexisosila.dev/) | [LinkedIn](https://www.linkedin.com/in/kenthalexisosila/) | [Email](mailto:work@kenthalexisosila.dev)
 
-###
+---
 
-<p align="left">Hi! I’m here to simplify your digital life. I build websites that look great, turn your data into easy-to-read reports, and use n8n to automate the boring stuff so you can focus on what matters most which is your business.</p>
+### 🛠️ Tools & Technologies
 
-###
-
-<p align="left">Check my portfolio <a href="https://kenthalexisosila.dev/" target="_blank">here</a></p>
-
-###
-
-<h3 align="left">Socials</h3>
-
-###
-
+**Core Development**
 <div align="left">
-  <a href="https://www.linkedin.com/in/kenthalexisosila/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:work@kenthalexisosila.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/knthlxs03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=laravel,js,html,css,tailwind,mysql,postgres,firebase" height="40" />
 </div>
 
-###
-
-<h3 align="left">Tools and Technologies</h3>
-
-###
-
+**DevOps & Deployment**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=docker,linux,vercel,git,github,vscode" height="40" />
 </div>
 
-###
+**Automation & Data**
+<div align="left">
+  <img src="https://iili.io/qKPOIEl.png" height="40" alt="n8n" />&nbsp;
+  <img src="https://iili.io/qKiHAF4.png" height="40" alt="appsheet" />&nbsp;
+  <img src="https://iili.io/qKiF2Yx.png" height="40" alt="looker studio" />
+</div>
+
+**Design**
+<div align="left"> 
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
+</div> 
+
+**Development & Workflow**
+<div align="left"> 
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />&nbsp;
+  <img src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto&size=40" height="40" alt="jira" />&nbsp;
+  <img src="https://cdn.simpleicons.org/trello/0079BF?viewbox=auto&size=40" height="40" alt="trello" />
+</div>
+
+---
+
+### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebykenth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=codebykenth&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebykenth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=codebykenth&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats-ochre-alpha-35.vercel.app/api/top-langs?username=codebykenth&layout=compact&langs_count=8&theme=dracula" width="495px" />
 </div>
 
-###
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-ochre-alpha-35.vercel.app/api?username=codebykenth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="495px" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=codebykenth&theme=dracula" width="495px" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=codebykenth&theme=dracula&column=4&row=2&margin-w=15&margin-h=15" width="495px" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebykenth&theme=dracula&area=true&hide_border=true" width="495px" />
+</div>
+
+---
+
+<p align="center">
+  <em>"Simplifying digital life through code and smart automation."</em>
+</p>
