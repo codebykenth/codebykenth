@@ -1,9 +1,11 @@
 # 👋 Hi! I am Kenth Alexis Osila
-### SOFTWARE DEVELOPER | AUTOMATION SPECIALIST
+### FULL-STACK DEVELOPER | AUTOMATION SPECIALIST
 
-I build efficient web applications and automate complex business workflows. I specialize in developing robust systems using **Laravel** and **JavaScript**, while leveraging **n8n** to drive operational efficiency through smart automation.
+I build efficient web applications and automate complex business workflows. I specialize in developing robust systems using **Laravel** and **React**, while leveraging **n8n** to drive operational efficiency through smart automation.
 
-[🌐 Portfolio](https://kenthalexisosila.dev/) | [LinkedIn](https://www.linkedin.com/in/kenthalexisosila/) | [Email](mailto:work@kenthalexisosila.dev)
+<a href="https://kenthalexisosila.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" height="24" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kenthalexisosila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a>
+<a href="mailto:kenthosila@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
 
 ---
 
@@ -11,32 +13,37 @@ I build efficient web applications and automate complex business workflows. I sp
 
 **Core Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,js,html,css,tailwind,mysql,postgres,firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,html,css,js,tailwind,mysql,postgres,firebase" height="40" alt="Core Development" />
 </div>
 
-**DevOps & Deployment**
+**Tools & Deployment**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,vercel,git,github,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel,docker,postman,git,github,vscode" height="40" alt="Tools & Deployment" />
 </div>
 
-**Automation & Data**
+**AI & Automation**
 <div align="left">
-  <img src="https://iili.io/qKPOIEl.png" height="40" alt="n8n" />&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2?viewbox=auto&size=40" height="40" alt="Gemini API" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openrouter/6466E9?viewbox=auto&size=40" height="40" alt="OpenRouter" />&nbsp;
+  <img src="https://iili.io/qKPOIEl.png" height="40" alt="n8n" />
+</div>
+
+**No-Code & Analytics**
+<div align="left">
   <img src="https://iili.io/qKiHAF4.png" height="40" alt="appsheet" />&nbsp;
   <img src="https://iili.io/qKiF2Yx.png" height="40" alt="looker studio" />
 </div>
 
-**Design**
-<div align="left"> 
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
-</div> 
-
-**Development & Workflow**
-<div align="left"> 
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />&nbsp;
+**Workflow & Collaboration**
+<div align="left">
   <img src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto&size=40" height="40" alt="jira" />&nbsp;
   <img src="https://cdn.simpleicons.org/trello/0079BF?viewbox=auto&size=40" height="40" alt="trello" />
+</div>
+
+**Design**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
 </div>
 
 ---
@@ -68,7 +75,7 @@ I build efficient web applications and automate complex business workflows. I sp
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebykenth&theme=dracula&area=true&hide_border=true" width="495px" />
+  <img src="https://github-readme-activity-graph-six-orcin.vercel.app/graph?username=codebykenth&theme=dracula&area=true&hide_border=true" width="495px" />
 </div>
 
 ---
