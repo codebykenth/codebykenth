@@ -78,6 +78,10 @@ I build efficient web applications and automate complex business workflows. I sp
   <img src="https://github-readme-activity-graph-six-orcin.vercel.app/graph?username=codebykenth&theme=dracula&area=true&hide_border=true" width="495px" />
 </div>
 
+<div align="center">
+  <img src="https://kenthalexisosila.site/api/github/snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
 ---
 
 <p align="center">
